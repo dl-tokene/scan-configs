@@ -1,0 +1,14 @@
+[
+	{
+		"author": "TokenE",
+		"id": "tokene-landing",
+		"title": "TokenE",
+		"logo": "",
+		"categories": ["System"],
+		"shortDescription": "TokenE landing page.",
+		"site": "https://tokene.io",
+		"description": "TokenE landing page.",
+		"external": true,
+		"url": "https://tokene.io"
+	}
+]

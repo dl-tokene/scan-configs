@@ -1,0 +1,20 @@
+[{
+    "title": "TokenE",
+    "url": "https://newscan.tokene.io",
+    "group": "Mainnets",
+    "icon": ""
+},
+{
+    "title": "Old Scan",
+    "url": "https://scan.tokene.io",
+    "group": "Testnets",
+    "icon": "",
+    "invertIconInDarkMode": true
+},
+{
+    "title": "TokenE",
+    "url": "https://tokene.io",
+    "group": "Other",
+    "icon": ""
+}
+]
